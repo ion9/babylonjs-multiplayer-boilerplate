@@ -1,6 +1,6 @@
 import "./index.css";
 
-import * as CCPWGL2 from "CCPWGL2";
+import * as CCPWGL2 from "ccpwgl2";
 
 // Other files i think we need
 // <script type="text/javascript" src="../dist/ccpwgl2_int.js"></script>
