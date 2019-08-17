@@ -1,10 +1,9 @@
 import "./index.css";
 
-import * as CCPWGL2 from "ccpwgl2";
-
-// Other files i think we need
+// This is not right but we need to include the .js like here
 // <script type="text/javascript" src="../dist/ccpwgl2_int.js"></script>
 // <script type="text/javascript" src="../dist/ccpwgl.js"></script>
+// import * as CCPWGL2 from "ccpwgl2";
 
 import * as BABYLON from "babylonjs";
 import Keycode from "keycode.js";
