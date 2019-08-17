@@ -1,19 +1,15 @@
-# BabylonJS + Colyseus: Multiplayer Boilerplate <a href="https://patreon.com/endel" title="Donate to this project using Patreon"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.herokuapp.com%2Fendel&style=for-the-badge" alt="Patreon donate button"/></a>
+# ccpwgl2 + Colyseus
 
-This is a project setup to use BabylonJS 4.x with Colyseus 0.10.x.
+This is a project setup to use ccpwgl2 with Colyseus 0.10.x.
 
-<img src="screenshot.png?raw=true" />
 
 ## Tooling
 
 - [Webpack 4.x](https://github.com/webpack/webpack)
 - [TypeScript 3.x](https://github.com/Microsoft/TypeScript)
-- [BabylonJS 4.x](https://github.com/BabylonJS/Babylon.js)
+- [ccpwgl2](https://github.com/cppctamber/ccpwgl2)
 - [Colyseus 0.10.x](https://github.com/colyseus/colyseus)
 - [Node.js 8.x+](https://nodejs.org/)
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-| [Live demo](https://babylonjs-multiplayer.herokuapp.com/)
 
 **Requires [NodeJS v8.0.0+](https://nodejs.org/en/download/)**
 
@@ -22,7 +18,7 @@ This is a project setup to use BabylonJS 4.x with Colyseus 0.10.x.
 Check out this repository.
 
 ```
-git clone https://github.com/endel/babylonjs-multiplayer-boilerplate.git
+git clone https://github.com/ion9/babylonjs-multiplayer-boilerplate.git
 ```
 
 Inside this repository, there's two separate applications. The client (babylonjs + colyseus client) and the server (nodejs + colyseus server).
@@ -65,7 +61,7 @@ It will spawn a web socket server, listening on [ws://localhost:2657](ws://local
 
 ## Documentation
 
-- [BabylonJS documentation](https://doc.babylonjs.com/)
+- [ccpwgl2](http://www.radicalcompliance.com/wp-content/uploads/2018/08/meme-documentation.jpg)
 - [Colyseus documentation](https://docs.colyseus.io/)
 
 ## License
